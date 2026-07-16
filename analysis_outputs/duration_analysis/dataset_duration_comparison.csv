@@ -1,0 +1,3 @@
+Dataset,Samples,Mean_Minutes,Median_Minutes,Minimum_Minutes,Maximum_Minutes
+DAIC-WOZ,188,15.94,15.18,6.91,32.77
+D-Vlog,961,9.94,7.88,0.39,66.14

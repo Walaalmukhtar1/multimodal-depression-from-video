@@ -1,0 +1,28 @@
+Split,Modality,Total_Participants,Available,Missing,Availability_Percentage
+Train,Audio,107,107,0,100.0
+Train,Transcript,107,107,0,100.0
+Train,COVAREP,107,107,0,100.0
+Train,Formant,107,107,0,100.0
+Train,Action Units,107,107,0,100.0
+Train,2D Landmarks,107,107,0,100.0
+Train,3D Landmarks,107,107,0,100.0
+Train,Gaze,107,107,0,100.0
+Train,Head Pose,107,107,0,100.0
+Validation,Audio,35,34,1,97.14
+Validation,Transcript,35,34,1,97.14
+Validation,COVAREP,35,34,1,97.14
+Validation,Formant,35,34,1,97.14
+Validation,Action Units,35,34,1,97.14
+Validation,2D Landmarks,35,34,1,97.14
+Validation,3D Landmarks,35,34,1,97.14
+Validation,Gaze,35,34,1,97.14
+Validation,Head Pose,35,34,1,97.14
+Test,Audio,47,47,0,100.0
+Test,Transcript,47,47,0,100.0
+Test,COVAREP,47,47,0,100.0
+Test,Formant,47,47,0,100.0
+Test,Action Units,47,47,0,100.0
+Test,2D Landmarks,47,47,0,100.0
+Test,3D Landmarks,47,47,0,100.0
+Test,Gaze,47,47,0,100.0
+Test,Head Pose,47,47,0,100.0

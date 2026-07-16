@@ -1,0 +1,6 @@
+Modality,Files_Read,Mean_Frames,Median_Frames,Min_Frames,Max_Frames,Mean_Columns,Total_NaN_Values,Mean_NaN_Percentage,Maximum_NaN_Percentage,Total_Infinite_Values,Mean_Tracking_Success,Minimum_Tracking_Success,Mean_Confidence,Minimum_Mean_Confidence
+Action Units,188,28678.9096,27287.5,12447.0,58989.0,24.0,0.0,0.0,0.0,0.0,94.8086,74.0728,0.9337,0.7727
+2D Landmarks,188,28678.9096,27287.5,12447.0,58989.0,140.0,55760.0,0.0076,0.8476,0.0,97.6657,79.58,0.9337,0.7727
+3D Landmarks,188,28678.9096,27287.5,12447.0,58989.0,208.0,83640.0,0.0077,0.8558,0.0,97.6657,79.58,0.9337,0.7727
+Gaze,188,28678.9096,27287.5,12447.0,58989.0,16.0,0.0,0.0,0.0,0.0,97.6657,79.58,0.9337,0.7727
+Head Pose,188,28678.9096,27287.5,12447.0,58989.0,10.0,2460.0,0.0047,0.5235,0.0,97.6657,79.58,0.9337,0.7727
