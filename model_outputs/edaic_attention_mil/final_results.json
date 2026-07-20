@@ -1,0 +1,40 @@
+{
+    "device": "cuda",
+    "best_epoch": 11,
+    "training_duration_seconds": 37.325766801834106,
+    "configuration": {
+        "batch_size": 4,
+        "epochs": 40,
+        "learning_rate": 0.0003,
+        "weight_decay": 0.0001,
+        "windows_per_participant": 24,
+        "gru_hidden_size": 48,
+        "attention_hidden_size": 32,
+        "dropout": 0.4,
+        "decision_threshold": 0.5
+    },
+    "best_dev_metrics": {
+        "accuracy": 0.7454545454545455,
+        "balanced_accuracy": 0.5968992248062015,
+        "precision": 0.4,
+        "recall": 0.3333333333333333,
+        "f1": 0.36363636363636365
+    },
+    "test_metrics": {
+        "accuracy": 0.6964285714285714,
+        "balanced_accuracy": 0.5995475113122172,
+        "precision": 0.5,
+        "recall": 0.35294117647058826,
+        "f1": 0.41379310344827586
+    },
+    "test_confusion_matrix": [
+        [
+            33,
+            6
+        ],
+        [
+            11,
+            6
+        ]
+    ]
+}

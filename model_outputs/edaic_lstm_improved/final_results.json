@@ -1,0 +1,42 @@
+{
+    "device": "cuda",
+    "best_epoch": 2,
+    "training_duration_seconds": 158.28175854682922,
+    "model_configuration": {
+        "hidden_size": 64,
+        "number_of_lstm_layers": 1,
+        "classifier_dropout": 0.5,
+        "batch_size": 32,
+        "learning_rate": 0.0005,
+        "participant_balanced_sampling": true,
+        "temporal_pooling": "mean_and_max"
+    },
+    "dev_window_metrics": {
+        "accuracy": 0.6647686832740214,
+        "balanced_accuracy": 0.5109054306119902,
+        "precision": 0.2600896860986547,
+        "recall": 0.2149740548554485,
+        "f1": 0.2353896103896104
+    },
+    "dev_participant_metrics": {
+        "accuracy": 0.7454545454545455,
+        "balanced_accuracy": 0.5668604651162791,
+        "precision": 0.375,
+        "recall": 0.25,
+        "f1": 0.3
+    },
+    "test_window_metrics": {
+        "accuracy": 0.6336280176810609,
+        "balanced_accuracy": 0.5389159661255492,
+        "precision": 0.37047353760445684,
+        "recall": 0.29837352776219855,
+        "f1": 0.33053743398570984
+    },
+    "test_participant_metrics": {
+        "accuracy": 0.6428571428571429,
+        "balanced_accuracy": 0.5444947209653092,
+        "precision": 0.38461538461538464,
+        "recall": 0.29411764705882354,
+        "f1": 0.3333333333333333
+    }
+}

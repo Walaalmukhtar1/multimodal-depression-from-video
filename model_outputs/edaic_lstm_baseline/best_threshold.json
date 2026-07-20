@@ -1,0 +1,20 @@
+{
+    "Selection_Dataset": "Dev",
+    "Selection_Metric": "Participant-level F1",
+    "Best_Threshold": 0.28,
+    "Best_Dev_Metrics": {
+        "Accuracy": 0.5818181818181818,
+        "Balanced_Accuracy": 0.6724806201550388,
+        "Precision": 0.3225806451612903,
+        "Recall": 0.8333333333333334,
+        "F1": 0.46511627906976744
+    },
+    "Default_Threshold": 0.5,
+    "Default_Dev_Metrics": {
+        "Accuracy": 0.6545454545454545,
+        "Balanced_Accuracy": 0.5687984496124031,
+        "Precision": 0.29411764705882354,
+        "Recall": 0.4166666666666667,
+        "F1": 0.3448275862068966
+    }
+}

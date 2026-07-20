@@ -1,0 +1,11 @@
+Participant_ID,Archive,BoVW_File_Found,Member_Name,Rows,Columns,File_Size_Bytes
+300,300_P.tar.gz,1,300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,6485,102,3024025
+301,301_P.tar.gz,1,301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,8240,102,3770622
+302,302_P.tar.gz,1,302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,7588,102,3526620
+303,303_P.tar.gz,1,303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,9854,102,4521295
+304,304_P.tar.gz,1,304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,7926,102,3658612
+305,305_P.tar.gz,1,305_P/features/305_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,17040,102,7932855
+306,306_P.tar.gz,1,306_P/features/306_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,8581,102,3934742
+307,307_P.tar.gz,1,307_P/features/307_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,12388,102,5683547
+308,308_P.tar.gz,1,308_P/features/308_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,8676,102,3981161
+309,309_P.tar.gz,1,309_P/features/309_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,7057,102,3292851

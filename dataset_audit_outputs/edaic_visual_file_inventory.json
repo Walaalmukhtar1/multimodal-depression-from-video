@@ -1,0 +1,120 @@
+{
+    "archives_folder": "D:\\Downloads\\Depression_Anxiety_Body_Movement\\data\\raw\\e-daic-woz",
+    "archives_found": 10,
+    "archives_successfully_inspected": 10,
+    "archives_with_errors": [],
+    "archive_counts_by_category": {
+        "openface_combined": 10,
+        "action_units": 10,
+        "gaze": 10,
+        "head_pose": 10,
+        "facial_landmarks": 0,
+        "face_embeddings": 0,
+        "body_landmarks": 0,
+        "hand_landmarks": 0,
+        "blink": 0,
+        "video": 0,
+        "audio": 10,
+        "transcript": 10
+    },
+    "top_file_extensions": [
+        {
+            "extension": ".csv",
+            "count": 30
+        },
+        {
+            "extension": ".mat",
+            "count": 20
+        },
+        {
+            "extension": ".3.0_mfcc.csv",
+            "count": 20
+        },
+        {
+            "extension": ".1.0_pose_gaze_aus.csv",
+            "count": 20
+        },
+        {
+            "extension": ".3.0_egemaps.csv",
+            "count": 20
+        },
+        {
+            "extension": ".wav",
+            "count": 10
+        }
+    ],
+    "example_files_by_category": {
+        "audio": [
+            "300_P/300_AUDIO.wav",
+            "301_P/301_AUDIO.wav",
+            "302_P/302_AUDIO.wav",
+            "303_P/303_AUDIO.wav",
+            "304_P/304_AUDIO.wav",
+            "305_P/305_AUDIO.wav",
+            "306_P/306_AUDIO.wav",
+            "307_P/307_AUDIO.wav",
+            "308_P/308_AUDIO.wav",
+            "309_P/309_AUDIO.wav"
+        ],
+        "openface_combined": [
+            "300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "300_P/features/300_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "302_P/features/302_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "303_P/features/303_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "304_P/features/304_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv"
+        ],
+        "action_units": [
+            "300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "300_P/features/300_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "302_P/features/302_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "303_P/features/303_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "304_P/features/304_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv"
+        ],
+        "gaze": [
+            "300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "300_P/features/300_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "302_P/features/302_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "303_P/features/303_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "304_P/features/304_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv"
+        ],
+        "head_pose": [
+            "300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "300_P/features/300_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "302_P/features/302_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "303_P/features/303_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv",
+            "304_P/features/304_OpenFace2.1.0_Pose_gaze_AUs.csv",
+            "304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv"
+        ],
+        "transcript": [
+            "300_P/300_Transcript.csv",
+            "301_P/301_Transcript.csv",
+            "302_P/302_Transcript.csv",
+            "303_P/303_Transcript.csv",
+            "304_P/304_Transcript.csv",
+            "305_P/305_Transcript.csv",
+            "306_P/306_Transcript.csv",
+            "307_P/307_Transcript.csv",
+            "308_P/308_Transcript.csv",
+            "309_P/309_Transcript.csv"
+        ]
+    }
+}

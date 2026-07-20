@@ -1,0 +1,11 @@
+Participant_ID,Archive,Member_Name,BoVW_File_Found,Rows,Columns,First_Column_Unique_Values,First_Column_Example,Fully_Numeric_Columns,Partially_Numeric_Columns,Non_Numeric_Columns,Numeric_Feature_Columns_Excluding_First,Finite_Value_Ratio,Zero_Value_Ratio
+300,300_P.tar.gz,300_P/features/300_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,6486,102,1,'300_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.962076734963043
+301,301_P.tar.gz,301_P/features/301_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,8241,102,1,'301_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9789389204664914
+302,302_P.tar.gz,302_P/features/302_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,7589,102,1,'302_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9657424959784159
+303,303_P.tar.gz,303_P/features/303_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,9855,102,1,'303_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9736797424034641
+304,304_P.tar.gz,304_P/features/304_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,7927,102,1,'304_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9704244298531026
+305,305_P.tar.gz,305_P/features/305_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,17041,102,1,'305_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.964490416531824
+306,306_P.tar.gz,306_P/features/306_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,8582,102,1,'306_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9755832493060539
+307,307_P.tar.gz,307_P/features/307_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,12389,102,1,'307_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9762341073884611
+308,308_P.tar.gz,308_P/features/308_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,8677,102,1,'308_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9755961190218365
+309,309_P.tar.gz,309_P/features/309_BoVW_openFace_2.1.0_Pose_Gaze_AUs.csv,1,7058,102,1,'309_OpenFace2.1.0_Pose_gaze_AUs.csv',101,0,1,101,1.0,0.9616880220184104
